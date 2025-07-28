@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Chào bạn! Tôi là Hoài Nam
 
-<!--
-**HoaiNam1566/HoaiNam1566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sinh viên năm 4 ngành Công nghệ Thông tin  
+🚀 Mục tiêu: Trở thành lập trình viên Fullstack
 
-Here are some ideas to get you started:
+### 🧰 Kỹ năng
+- 🔹 Ngôn ngữ: C#, JavaScript, SQL
+- 🔹 Backend: ASP.NET Core, Node.js
+- 🔹 Frontend: HTML, CSS, Bootstrap, React
+- 🔹 Công cụ: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Dự án nổi bật
+- 🔗 [ASP.NET Core Shop](https://github.com/lehoainam/aspnet-shop)
+- 🔗 [To-do App with React](https://github.com/lehoainam/react-todo)
+
+### 📫 Liên hệ
+- ✉️ Email: hoainam1566@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/lehoainam](https://linkedin.com/in/lehoainam)
+
